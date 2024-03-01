@@ -1,1 +1,2 @@
 # Sample
+Started exploring github
