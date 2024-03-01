@@ -1,2 +1,2 @@
 New file has been added
-checking the commits
+checking the commits merge..
